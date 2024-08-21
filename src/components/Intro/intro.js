@@ -1,12 +1,12 @@
 import React from "react";
 import "./intro.css";
-import bg from "../../assets/image.png";
+import bg from "../../assets/ShivamPhoto.png";
 import btnImg from "../../assets/hireme.png";
 import { Link } from "react-scroll";
 
 function Intro() {
   return (
-    <section id="into">
+    <section id="intro">
       <div className="introContent">
         <span className="hello">Hello,</span>
         <span className="introText">
